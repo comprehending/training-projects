@@ -15,4 +15,4 @@
 - pandas
 - sqlalchemy
 
-[## Ссылка на готовый дашборд](https://tabsoft.co/2GugmzM)
+## [Ссылка на готовый дашборд](https://tabsoft.co/2GugmzM)
