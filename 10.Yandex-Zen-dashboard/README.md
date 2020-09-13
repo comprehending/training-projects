@@ -14,3 +14,5 @@
 ## Используемые библиотеки
 - pandas
 - sqlalchemy
+
+[## Ссылка на готовый дашборд](https://tabsoft.co/2GugmzM)
